@@ -1,6 +1,6 @@
 - 👋 Sup'
 - I like programming, gaming and watching Anime
-- Games: MMORPGs, JRPGS, Dark Souls Series, Nintendo & Elsword
+- Games: MMORPGs, JRPGs, Dark Souls Series, Nintendo & Elsword
 - Germany - Nordrhein-Westfalen
 
 <!---
